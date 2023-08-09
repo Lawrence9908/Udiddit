@@ -25,7 +25,7 @@ As part of the project resources, there is a SQL Workspace containing a dump of 
 The project also includes some supporting materials to aid me in completing the tasks:
 
 1. [Google Docs Template](link-to-google-docs-template) - This document contains detailed instructions and tasks for the project. I have already created a copy of this document to record my progress and findings.
-2. [bad_db.sql](link-to-bad-db-sql) - This file contains the SQL dump of the current data gathered by Udiddit. I can use this data to test my queries in the SQL Workspace or any other environment as required.
+2.<a href="/Udiddit/bad-db.sql.txt">bad_db.sql</a> - This file contains the SQL dump of the current data gathered by Udiddit. I can use this data to test my queries in the SQL Workspace or any other environment as required.
 
 ## Project Rubric
 
