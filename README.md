@@ -26,7 +26,8 @@ The project also includes some supporting materials to aid me in completing the 
 
 1. [Google Docs Template](link-to-google-docs-template) - This document contains detailed instructions and tasks for the project. I have already created a copy of this document to record my progress and findings.
 2.<a href="/Udiddit/bad-db.sql.txt">bad_db.sql</a> - This file contains the SQL dump of the current data gathered by Udiddit. I can use this data to test my queries in the SQL Workspace or any other environment as required.
-
+2. <a href="./Udiddit/Udidit__new_normalized_tables.sql">DDL Script</a> - This script create new database with normalized tables
+3. <a href="./Udiddit/Udidit__data_migration_script.sql">DML Script</a> - This Script migrated data from old database to new normalized database
 ## Project Rubric
 
 Before I submit my final project, I make sure to review the project rubric thoroughly. This way, I can ensure that my work aligns with the requirements outlined in the rubric, making the project a fully functional and successful one.
